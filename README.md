@@ -26,7 +26,7 @@ To build and run server
 To test using a different terminal
 * telnet localhost 15001
 * type your message and press enter
-* you will see each message echoed by server
+* you will see message echoed by server
 * your connection will be immediately closed
 
 ## Test: 1 Server with 2 Connections
