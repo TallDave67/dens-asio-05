@@ -1,0 +1,21 @@
+$ telnet localhost 15001
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+Hello asio!
+Connection closed by foreign host.
+$ telnet localhost 15001
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+How is it going?
+Connection closed by foreign host.
+$ telnet localhost 15001
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+Ok, talk to you later.
+Connection closed by foreign host.

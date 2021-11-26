@@ -1,0 +1,8 @@
+$ ./dens-asio 
+Hello asio!
+session::~session() : the shared ptr holding onto us went out of scope.  when we go away so does the connection to the client
+How is it going?
+session::~session() : the shared ptr holding onto us went out of scope.  when we go away so does the connection to the client
+Ok, talk to you later.
+session::~session() : the shared ptr holding onto us went out of scope.  when we go away so does the connection to the client
+^C
