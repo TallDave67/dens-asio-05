@@ -23,7 +23,7 @@ To build and run server
 * make
 * ./dens-asio
 
-To test using a different terminal
+To test use a different terminal
 * telnet localhost 15001
 * type your message and press enter
 * you will see message echoed by server
