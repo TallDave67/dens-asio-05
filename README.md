@@ -29,6 +29,6 @@ To test use a different terminal
 * you will see message echoed by server
 * your connection will be immediately closed
 
-### Test: 1 Server with 2 Connections
+### Test Run: 1 Server with 2 Connections
 
 ![1 Server with 2 Connections](output/dens-asio_01.png)
